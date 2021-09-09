@@ -1,0 +1,14 @@
+* Modelo Vista Controlador
+- Base de datos = db
+- Vista = views
+- Controlador = controller 
+
+* Servidor = express 
+
+* Proyectos separados
+FRONTEND  
+BACKEND -> viendo ahora
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+Mongoose es un ORM de mongo para facilitar las consultas a la db
